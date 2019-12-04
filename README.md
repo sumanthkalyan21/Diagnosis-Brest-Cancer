@@ -7,10 +7,10 @@ area mean
 perimeter mean
 
 Attributes:
-radius mean
-texture mean
-area mean
-perimeter mean
+radius mean,
+texture mean,
+area mean,
+perimeter mean,
 Diagnosis
 
 Basic information for awareness of Brest Cancer gathered from MAYOClinic 
