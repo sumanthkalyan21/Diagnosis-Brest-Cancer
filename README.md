@@ -6,7 +6,8 @@ texture mean
 area mean
 perimeter mean
 
-Attributes:radius mean
+Attributes:
+radius mean
 texture mean
 area mean
 perimeter mean
